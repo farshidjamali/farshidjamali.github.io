@@ -3237,7 +3237,7 @@ input, select, textarea {
 			background-image: url("../../images/lukas-blazek-mcSDtbWXUZU-unsplash.jpg");
 			background-size: contain;
 			background-position: top;
-			background-repeat:repeat-x;
+			background-repeat:repeat;
 			background-attachment: scroll;
 			z-index: -1;
 		}
