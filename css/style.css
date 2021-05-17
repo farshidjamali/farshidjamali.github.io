@@ -778,14 +778,25 @@ h2.resp-accordion {
 }
 
 .about-text {
-    text-align: center;
-    width: 100%;
+    text-align: left;
+    width: contain;
     margin-top: 3%;
 }
 
 .about-text p {
     font-size: 15px;
     color: #7e7e7e;
+    line-height: 1.5em;
+}
+
+.about-text-farshid {
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.about-text-farshid p {
+    font-size: 25px;
+    color: #000000;
     line-height: 1.5em;
 }
 
