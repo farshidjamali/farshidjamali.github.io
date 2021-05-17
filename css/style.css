@@ -297,7 +297,7 @@ ul.wmuSliderPagination {
     font-family: 'Arvo', serif;
     text-transform: uppercase;
     font-weight: 400;
-    color: #ef664d;
+    color: #0077ff;
 }
 
 .projects-header h3 span {
@@ -697,7 +697,7 @@ div#portfoliolist {
 .resp-tab-active,
 .resp-tab-item:hover {
     text-shadow: none;
-    color: #ef664d;
+    color: #0077ff;
 }
 
 .resp-tabs-container {
@@ -752,7 +752,7 @@ h2.resp-accordion {
 }
 
 .about-header h3 span {
-    color: #ef664d;
+    color: #0077ff;
     ;
 }
 
@@ -763,13 +763,23 @@ h2.resp-accordion {
 }
 
 .about-imag img {
-    border: 2px solid #ef664d;
+    border: 2px solid #0077ff;
+    border-radius: 103px;
+}
+
+.about-imag-farshid {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.about-imag-farshid img {
+    border: 2px solid #0077ff;
     border-radius: 103px;
 }
 
 .about-text {
-    float: left;
-    width: 65%;
+    text-align: center;
+    width: 100%;
     margin-top: 3%;
 }
 
@@ -819,7 +829,7 @@ h2.resp-accordion {
 .skills>div {
     height: 100%;
     display: block;
-    background-color: #ef664d;
+    background-color: #0077ff;
 }
 
 .footer-section {
@@ -838,7 +848,7 @@ h2.resp-accordion {
     font-family: 'Arvo', serif;
     text-transform: uppercase;
     font-weight: 400;
-    color: #ef664d;
+    color: #0077ff;
 }
 
 .contact-header h3 span {
@@ -976,7 +986,7 @@ h2.resp-accordion {
 }
 
 .contactgrid2 input[type="submit"] {
-    color: #ef664d;
+    color: #0077ff;
     background: none;
     border: none;
     font-size: 15px;
@@ -1001,7 +1011,7 @@ h2.resp-accordion {
 
 .footer-bottom a {
     font-size: 19px;
-    color: #ef664d;
+    color: #0077ff;
     font-weight: 400;
     text-transform: capitalize;
 }
