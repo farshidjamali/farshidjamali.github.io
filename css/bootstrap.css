@@ -744,15 +744,35 @@ pre code {
     width: 750px;
   }
 }
+.container-pdf-farshid {
+  width: 100%;
+  height: 740px;
+  overflow: hidden;
+  text-align: center;
+}
+
 @media (min-width: 992px) {
   .container {
     width: 970px;
   }
 }
+
+.container-pdf-farshid {
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: center;
+}
 @media (min-width: 1200px) {
   .container {
     width: 1170px;
   }
+}
+.container-pdf-farshid {
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: center;
 }
 .container-fluid {
   padding-right: 15px;
