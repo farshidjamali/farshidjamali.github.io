@@ -229,17 +229,17 @@ ul.wmuSliderPagination {
     float: left;
 }
 
-.services-section {
+.Certifications-section {
     padding: 3em 0;
 }
 
-.services-header {
+.Certifications-header {
     text-align: center;
     width: 85%;
     margin: 0 auto;
 }
 
-.services-header h3 {
+.Certifications-header h3 {
     font-size: 2.5em;
     font-family: 'Arvo', serif;
     text-transform: uppercase;
@@ -247,22 +247,22 @@ ul.wmuSliderPagination {
     color: #2a404e;
 }
 
-.services-header h3 span {
+.Certifications-header h3 span {
     color: #F0C514;
 }
 
-.services-header p {
+.Certifications-header p {
     line-height: 1.5em;
     font-size: 15px;
     color: #7e7e7e;
     padding: 25px 0;
 }
 
-.services-sectiongrids {
+.Certifications-sectiongrids {
     text-align: center;
 }
 
-.services-grid h4 {
+.Certifications-grid h4 {
     font-size: 1.3em;
     font-weight: bold;
     padding: 15px 0;
@@ -270,7 +270,7 @@ ul.wmuSliderPagination {
     text-transform: uppercase;
 }
 
-.services-grid p {
+.Certifications-grid p {
     font-size: 15px;
     color: #7e7e7e;
     padding: 0 22px;
@@ -966,6 +966,24 @@ h2.resp-accordion {
     padding-bottom: 2em;
 }
 
+.contactgrid-farshid {
+    padding-bottom: 2em;
+    background: none;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid#d5d6d7;
+    font-size: 15px;
+    color: #d7d5d6;
+    padding: 10px 0;
+    text-align: center;
+
+}
+
+.contact-text-farshid{
+    text-align:center ;
+    color: #d7d5d6;
+}
+
 .contactgrid input[type="text"] {
     width: 100%;
     background: none;
@@ -1071,19 +1089,19 @@ h2.resp-accordion {
     .wmuSliderNext {
         top: 195px;
     }
-    .services-header h3 {
+    .Certifications-header h3 {
         font-size: 2.2em;
     }
-    .services-header {
+    .Certifications-header {
         width: 100%;
     }
-    .services-header p {
+    .Certifications-header p {
         font-size: 1em;
     }
-    .services-grid h4 {
+    .Certifications-grid h4 {
         font-size: 1.2em;
     }
-    .services-grid p {
+    .Certifications-grid p {
         font-size: 1em;
     }
     .projects-header h3 {
@@ -1171,24 +1189,24 @@ h2.resp-accordion {
     .banner-wrap {
         padding-top: 16em;
     }
-    .services-section {
+    .Certifications-section {
         padding: 2em 0;
     }
-    .services-header h3 {
+    .Certifications-header h3 {
         font-size: 2em;
     }
-    .services-grid {
+    .Certifications-grid {
         padding: 20px 0;
         float: left;
         width: 33.3%;
     }
-    .services-grid img {
+    .Certifications-grid img {
         width: 35%;
     }
-    .services-grid {
+    .Certifications-grid {
         padding: 20px 0;
     }
-    .services-header p {
+    .Certifications-header p {
         padding: 15px 0;
     }
     .projects-section {
@@ -1237,6 +1255,11 @@ h2.resp-accordion {
     .social-icon {
         padding: 20px 0;
     }
+    .contactgrid {
+        padding-bottom: 1em;
+        float: left;
+    }
+
     .contactgrid {
         padding-bottom: 1em;
         float: left;
@@ -1343,23 +1366,23 @@ h2.resp-accordion {
     .wmuSliderPagination {
         right: 44%;
     }
-    .services-section {
+    .Certifications-section {
         padding: 1.5em 0;
     }
-    .services-header h3 {
+    .Certifications-header h3 {
         font-size: 1.5em;
     }
-    .services-header p {
+    .Certifications-header p {
         font-size: 0.9em;
     }
-    .services-grid img {
+    .Certifications-grid img {
         width: 20%;
     }
-    .services-grid {
+    .Certifications-grid {
         padding: 16px 0;
         width: 100%;
     }
-    .services-grid p {
+    .Certifications-grid p {
         font-size: 0.9em;
         width: 55%;
         margin: 0 auto;
@@ -1492,18 +1515,18 @@ h2.resp-accordion {
         width: 12px;
         height: 12px;
     }
-    .services-header h3 {
+    .Certifications-header h3 {
         font-size: 1.4em;
     }
-    .services-header p {
+    .Certifications-header p {
         height: 66px;
         overflow: hidden;
     }
-    .services-grid h4 {
+    .Certifications-grid h4 {
         font-size: 1em;
         padding: 10px 0;
     }
-    .services-grid p {
+    .Certifications-grid p {
         width: 70%;
     }
     .projects-header h3 {
@@ -1622,19 +1645,19 @@ h2.resp-accordion {
         background-position: -299px -2px;
         right: 0.5em;
     }
-    .services-section {
+    .Certifications-section {
         padding: 1em 0;
     }
-    .services-header p {
+    .Certifications-header p {
         padding: 10px 0;
     }
-    .services-grid img {
+    .Certifications-grid img {
         width: 25%;
     }
-    .services-grid {
+    .Certifications-grid {
         padding: 10px 0;
     }
-    .services-grid p {
+    .Certifications-grid p {
         width: 96%;
         margin: 0 auto;
         padding: 0 0px;
