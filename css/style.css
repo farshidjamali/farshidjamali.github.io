@@ -80,6 +80,7 @@ body {
     text-transform: uppercase;
 }
 
+/* I added the following bllock to change the color of the links in the contact section from black to white.*/
 .contact a{
     font-size: 1.1em;
     color: rgb(255, 255, 255);
