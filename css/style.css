@@ -80,6 +80,14 @@ body {
     text-transform: uppercase;
 }
 
+.certi-farshid a{
+    font-size: 1.8em;
+    color: rgb(29, 202, 52);
+    margin-top: 10px;
+    margin-bottom: 10px; 
+    padding-top: 30em;
+}
+
 /* I added the following bllock to change the color of the links in the contact section from black to white.*/
 .contact a{
     font-size: 1.1em;
