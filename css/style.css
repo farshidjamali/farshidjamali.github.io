@@ -1220,9 +1220,10 @@ h2.resp-accordion {
     .Certifications-grid img {
         width: 35%;
     }
+    /* commented out by Farshid
     .Certifications-grid {
         padding: 20px 0;
-    }
+    }*/
     .Certifications-header p {
         padding: 15px 0;
         margin-bottom: 10px;
