@@ -269,7 +269,7 @@ ul.wmuSliderPagination {
     line-height: 1.5em;
     font-size: 15px;
     color: #7e7e7e;
-    padding: 25px 0;
+    padding: 1em;
 }
 
 .Certifications-sectiongrids {
@@ -322,7 +322,8 @@ ul.wmuSliderPagination {
     line-height: 1.5em;
     font-size: 15px;
     color: #fefefe;
-    padding: 25px 0;
+    padding-top: 1em ;
+    padding-bottom: 2em;
 }
 
 .portfolio-section {
@@ -996,6 +997,8 @@ h2.resp-accordion {
 .contact-text-farshid{
     text-align:center ;
     color: #d7d5d6;
+    padding-top: 1em;
+    padding-bottom: 2em;
 }
 
 .contactgrid input[type="text"] {
